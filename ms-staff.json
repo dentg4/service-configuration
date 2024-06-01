@@ -1,8 +1,0 @@
-{
-  "spring.datasource.url": "jdbc:postgresql://localhost:5432/bd_dentg4",
-  "spring.datasource.username": "postgres",
-  "spring.datasource.password": "password",
-  "spring.data.redis.host": "localhost",
-  "spring.data.redis.port": "6379",
-  "token.api_peru":"apis-token-8338.XypppNSNNqJeoMH3GpoQzb2B5btg16HP"
-}
